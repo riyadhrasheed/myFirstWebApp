@@ -1,9 +1,9 @@
 
 body {
-	background: white;
+	background: red;
 }
 footer {
-	background: #f9e933;
+	background: gray;
 	clear: both;
 }
 .footer {
@@ -17,11 +17,11 @@ footer {
 .contactus {
 	float: left;
 	margin-left: 50px;
-}	
+}
 .sitemap {
 	float: right;
 	margin-right: 50px;
-	
+
 }
  .left {
  	float: left;
@@ -63,7 +63,3 @@ footer {
  a:hover {
  	color: blue;
  }
- 
- 
- 
-
